@@ -44,6 +44,7 @@ Technologies used may include:
 - JavaScript
 - React
 - Tailwind CSS
+- Typscript
 
 *Only the technologies used in my actual contributions are listed as applicable.*
 
